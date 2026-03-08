@@ -86,25 +86,7 @@ Prompt:
 
 
 ----------------------------------------------------------------
-9. SELF-CONSISTENCY
-----------------------------------------------------------------
-Formulează un prompt care cere generarea a 3 soluții independente
-și un răspuns final consolidat.
-
-Prompt:
-
-
-----------------------------------------------------------------
-10. SELF-CONSISTENCY + PERSONIFICARE
-----------------------------------------------------------------
-Creează un prompt în care modelul este personificat ca
-„antrenor cu experiență de 20 de ani” și sintetizează rezultatul.
-
-Prompt:
-
-
-----------------------------------------------------------------
-11. META PROMPTING
+9. META PROMPTING
 ----------------------------------------------------------------
 Scrie un prompt în care modelul își definește singur pașii
 pentru a răspunde corect la o cerință fitness.
@@ -113,17 +95,7 @@ Prompt:
 
 
 ----------------------------------------------------------------
-12. GENERATED KNOWLEDGE PROMPTING + PERSONIFICARE
-----------------------------------------------------------------
-Creează un prompt în care modelul este personificat ca
-„expert în hipertrofie”, generează cunoștințe,
-apoi creează un plan de antrenament.
-
-Prompt:
-
-
-----------------------------------------------------------------
-13. PROMPT CHAINING
+10. PROMPT CHAINING
 ----------------------------------------------------------------
 Construiește un prompt cu două etape clare:
 1) analiză obiectiv fitness
@@ -133,7 +105,7 @@ Prompt:
 
 
 ----------------------------------------------------------------
-14. REACT (Reason + Act) + PERSONIFICARE
+11. REACT (Reason + Act) + PERSONIFICARE
 ----------------------------------------------------------------
 Scrie un prompt în care modelul explică raționamentul (Reason)
 și propune acțiuni concrete (Act), într-un format clar.
@@ -142,7 +114,7 @@ Prompt:
 
 
 ----------------------------------------------------------------
-15. MULTIMODAL PROMPTING + PERSONIFICARE
+12. MULTIMODAL PROMPTING + PERSONIFICARE
 ----------------------------------------------------------------
 Formulează un prompt în care modelul este personificat ca
 „antrenor într-o sală de fitness”, primește o imagine
