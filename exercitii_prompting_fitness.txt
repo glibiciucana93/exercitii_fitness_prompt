@@ -4,8 +4,8 @@ SET DE EXERCIȚII – PROMPTING AVANSAT PENTRU FITNESS (12 exerciții)
 
 INSTRUCȚIUNI OBLIGATORII (pentru TOATE exercițiile):
 Fiecare prompt scris de student TREBUIE să conțină explicit:
-1. INSTRUCȚIUNI clare și specifice pentru model
-2. CONTEXT (rolul modelului, situația utilizatorului, constrângeri)
+1. INSTRUCȚIUNI clare și specifice pentru modelul llm
+2. CONTEXT (situația utilizatorului, constrângeri)
 3. FORMAT DE IEȘIRE clar (structură, bullet points, pași etc.)
 
 Domeniu: FITNESS
