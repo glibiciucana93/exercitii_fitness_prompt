@@ -164,6 +164,21 @@ Răspunsul trebuie structurat astfel:
 
    * Pasul 1: evaluarea nivelului de activitate
    * Pasul 2: stabilirea frecvenț
+3. Planul final de slăbire
+
+program săptămânal de antrenament
+
+tipuri de exerciții recomandate
+
+durata antrenamentelor
+
+4. Recomandări suplimentare
+
+sfaturi pentru alimentație echilibrată
+
+importanța somnului și recuperării
+
+sugestii pentru menținerea motivației.
 
 ----------------------------------------------------------------
 5. CHAIN OF THOUGHT + PERSONIFICARE
